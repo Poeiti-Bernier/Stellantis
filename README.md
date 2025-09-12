@@ -13,5 +13,6 @@ Analyse de la performance d'une ligne de presse d'emboutissage dan l'usine à So
 
 ## Les documents
 - Notebook
-- Le fichier excel ayant été donné par une entreprise, il ne sera pas partagé
+- Les bases de données
+- Le dashboard Power BI
 
